@@ -41,12 +41,34 @@
       {
         "nameShort": "III",
         "name": "Regelstandard",
-        "descriptiveStatistics": { "frequency": 10, "total": 20, "mean": 0.50 }
+        "descriptiveStatistics": { "frequency": 10, "total": 20, "mean": 0.50 },
+        "materials": [
+          {
+            "id": "a7b8c9d0-e1f2-4a3b-8c4d-5e6f7a8b9c0d",
+            "title": "Vertiefungsaufgaben Leseverstehen — Stufe III",
+            "kind": "example",
+            "audience": "teacher"
+          }
+        ]
       },
       {
         "nameShort": "IV",
         "name": "Optimalstandard",
-        "descriptiveStatistics": { "frequency": 2, "total": 20, "mean": 0.10 }
+        "descriptiveStatistics": { "frequency": 2, "total": 20, "mean": 0.10 },
+        "materials": [
+          {
+            "id": "f1e2d3c4-b5a6-4978-8b9c-0d1e2f3a4b5c",
+            "title": "Enrichment: Anspruchsvolle Leseaufgaben — Stufe IV",
+            "kind": "example",
+            "audience": "teacher"
+          },
+          {
+            "id": "b2c3d4e5-f6a7-48b9-9c0d-1e2f3a4b5c6d",
+            "title": "Lesetipps für starke Leserinnen und Leser",
+            "kind": "info",
+            "audience": "student"
+          }
+        ]
       }
     ]
   }

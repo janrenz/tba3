@@ -40,8 +40,31 @@
         "name": "2.2",
         "position": 2,
         "iqbId": "AB1022",
-        "exercise": { "name": "At the Summer Camp" },
-        "descriptiveStatistics": { "frequency": 8, "total": 20, "mean": 0.40 }
+        "exercise": {
+          "name": "At the Summer Camp",
+          "materials": [
+            {
+              "id": "2c4f8e76-0b1d-4a3a-9a4f-0f35cda1b7e2",
+              "title": "Aufgabenkarte 'At the Summer Camp'",
+              "kind": "anchor-text"
+            }
+          ]
+        },
+        "descriptiveStatistics": { "frequency": 8, "total": 20, "mean": 0.40 },
+        "materials": [
+          {
+            "id": "e3f4a5b6-c7d8-49e0-af1b-2c3d4e5f6a7b",
+            "title": "Musterlösung Item 2.2",
+            "kind": "solution",
+            "audience": "teacher"
+          },
+          {
+            "id": "d5e6f7a8-b9c0-4d1e-be2f-3a4b5c6d7e8f",
+            "title": "Typische Fehlermuster zu Item 2.2",
+            "kind": "diagnostic",
+            "audience": "teacher"
+          }
+        ]
       }
     ]
   }
